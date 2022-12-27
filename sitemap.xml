@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://doctorakk.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://doctorakk.github.io/</loc>
+</url>
+<url>
+<loc>https://doctorakk.github.io/chest-pain.html</loc>
+<lastmod>2022-12-26T11:36:53+02:00</lastmod>
+<image:image>
+<image:loc>https://doctorakk.github.io/media\posts\3/35c2008fba.jfif</image:loc>
+<image:title><![CDATA[آلام الصدر]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://doctorakk.github.io/children-obesity.html</loc>
+<lastmod>2022-12-26T11:47:36+02:00</lastmod>
+<image:image>
+<image:loc>https://doctorakk.github.io/media\posts\6/b94654999e.jfif</image:loc>
+<image:title><![CDATA[السمنة عند الأطفال]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://doctorakk.github.io/depression.html</loc>
+<lastmod>2022-12-26T11:32:09+02:00</lastmod>
+<image:image>
+<image:loc>https://doctorakk.github.io/media\posts\1/dd3ee0322e.jfif</image:loc>
+<image:title><![CDATA[الاكتئاب]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://doctorakk.github.io/pneumonia.html</loc>
+<lastmod>2022-12-26T11:34:31+02:00</lastmod>
+<image:image>
+<image:loc>https://doctorakk.github.io/media\posts\2/6cb6055852.jfif</image:loc>
+<image:title><![CDATA[الالتهاب الرئوي]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://doctorakk.github.io/teeth-decay.html</loc>
+<lastmod>2022-12-26T11:44:01+02:00</lastmod>
+<image:image>
+<image:loc>https://doctorakk.github.io/media\posts\5/1599c9628c.jfif</image:loc>
+<image:title><![CDATA[تسوس الأسنان]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://doctorakk.github.io/throat-inflamation.html</loc>
+<lastmod>2022-12-26T11:41:15+02:00</lastmod>
+<image:image>
+<image:loc>https://doctorakk.github.io/media\posts\4/350175f2cd.jfif</image:loc>
+<image:title><![CDATA[التهاب الحلق]]></image:title>
+</image:image>
+</url>
+</urlset>
